@@ -26,7 +26,7 @@ using namespace std;
 using namespace cv;
 
 // show grad images
-#define HEIGHTMAP_SHOWGRAD
+// #define HEIGHTMAP_SHOWGRAD
 
 const int LOOKUPTAB_BINNUM = 60;
 const int LOOKUPTAB_MAXBINNUM = LOOKUPTAB_BINNUM - 1 ;
