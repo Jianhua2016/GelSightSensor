@@ -1,6 +1,6 @@
 # GelSightCamera
-install OpenCV 3.2 
-install VS2015 (if you run the code in Windows 10)
+1. install OpenCV 3.2
+2. install VS2015 (if you run the code in Windows 10)
 
 If you run the code in Ubuntu 16.04
 1. open a terminal and download the code through $git clone https://github.com/Jianhua2016/GelSightCamera.git
