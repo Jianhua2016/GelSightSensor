@@ -1,4 +1,0 @@
-/home/jianhua/Projects/GelSight/github/sendout/GelSightCamera/build/CMakeFiles/edit_cache.dir
-/home/jianhua/Projects/GelSight/github/sendout/GelSightCamera/build/CMakeFiles/rebuild_cache.dir
-/home/jianhua/Projects/GelSight/github/sendout/GelSightCamera/build/CMakeFiles/testGelSightCamera.dir
-/home/jianhua/Projects/GelSight/github/sendout/GelSightCamera/build/CMakeFiles/testCalibrateGelSightHeightMap.dir
